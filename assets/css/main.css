@@ -615,24 +615,23 @@ h6 {
 }
 
 .footer .copyright {
-  padding: 30px 0;
-  background-color: color-mix(in srgb, var(--footer-background-color) 92%, white 8%);
+  padding: 10px 0;
+  
 }
 
 .footer .copyright p {
-  margin-bottom: 0;
+  margin-bottom: 00;
 }
 
 .footer .credits {
-  margin-top: 5px;
+  margin-top: 0px;
   font-size: 13px;
 }
 
 /* Separador dourado entre o topo e o fim do rodapé */
 .hr-gold {
   border: 0;
-  height: 2px;
-  background-color: transparent;
+  height: 2px;  
   background-image: linear-gradient(to right, transparent 0%, var(--detail-color) 20%, var(--detail-color) 80%, transparent 100%);
   opacity: 1;
 }
